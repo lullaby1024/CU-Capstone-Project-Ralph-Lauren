@@ -3,7 +3,8 @@
 import eventful
 import json
 
-api = eventful.API('75nvdNNS994cgSfT', cache='.cache')
+# Note: please input your own authentation keys
+api = eventful.API('XXXXXXXX', cache='.cache')
 #api.login('dadadawen123', 'Xiaohangjia123!')
 events = api.call('/events/search', q='music', l='San Diego')
 
