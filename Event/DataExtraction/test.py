@@ -5,7 +5,7 @@ import json
 
 # Note: please input your own authentation keys
 api = eventful.API('XXXXXXXX', cache='.cache')
-#api.login('dadadawen123', 'Xiaohangjia123!')
+#api.login('username', 'password')
 events = api.call('/events/search', q='music', l='San Diego')
 
 for event in events['events']['event']:
