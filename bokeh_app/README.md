@@ -44,13 +44,13 @@ The current version supplies four tab views for self-service event exploration.
     - Modifications of constants in `main.py` may be required for scaling up to other locations.
 
 ## Demo
-<img src="https://github.com/lullaby1024/CU_Capstone_Project_Ralph_Lauren/blob/master/bokeh_app/demo/bokeh_tab1.png" width="40%">
+<img src="https://github.com/lullaby1024/CU_Capstone_Project_Ralph_Lauren/blob/master/bokeh_app/demo/bokeh_tab1.png" width="70%">
 
-<img src="https://github.com/lullaby1024/CU_Capstone_Project_Ralph_Lauren/blob/master/bokeh_app/demo/bokeh_tab2.png" width="40%">
+<img src="https://github.com/lullaby1024/CU_Capstone_Project_Ralph_Lauren/blob/master/bokeh_app/demo/bokeh_tab2.png" width="70%">
 
-<img src="https://github.com/lullaby1024/CU_Capstone_Project_Ralph_Lauren/blob/master/bokeh_app/demo/bokeh_tab3.png" width="40%">
+<img src="https://github.com/lullaby1024/CU_Capstone_Project_Ralph_Lauren/blob/master/bokeh_app/demo/bokeh_tab3.png" width="70%">
 
-<img src="https://github.com/lullaby1024/CU_Capstone_Project_Ralph_Lauren/blob/master/bokeh_app/demo/bokeh_tab4.png" width="40%">
+<img src="https://github.com/lullaby1024/CU_Capstone_Project_Ralph_Lauren/blob/master/bokeh_app/demo/bokeh_tab4.png" width="70%">
 
 ## Author
 - Qi Feng
