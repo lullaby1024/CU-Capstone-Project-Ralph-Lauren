@@ -3,6 +3,7 @@ This repo is for 2019 CU DSI capstone project for Ralph Lauren.
 
 ### Folders Instructions:
 1. **Fundamental Analysis**
+
 the initial venue data exploration, visulize the venue info in word cloud
 2. **Model Analysis**
 two models were built in this project: 1)fundamental model analysis, explore the effects of all events features; 2)spot events model analysis, focus on the top100 events based on the fundamental model analysis results 
