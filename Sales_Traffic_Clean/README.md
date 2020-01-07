@@ -10,10 +10,10 @@ the holidays used for noise pattern removal, contains: public holidays, promotio
 
 ### How to use the files:
 1. **sales cleaning** 
--function：clean_sales_data
--input parameters: input_flie_path: the path of the original sales data file need to be cleaned in .csv format, output_file_path: the path of the cleaned sales data file in .csv format
--output: a .csv file with the cleaned sales data in the output_file_path
--output file format: it contains date, sales_original, sales_cleaned, trend, holidays pattern, weekly pattern, yearly pattern.
+- function：clean_sales_data
+- input parameters: input_flie_path: the path of the original sales data file need to be cleaned in .csv format, output_file_path: the path of the cleaned sales data file in .csv format
+- output: a .csv file with the cleaned sales data in the output_file_path
+- output file format: it contains date, sales_original, sales_cleaned, trend, holidays pattern, weekly pattern, yearly pattern.
 example:
 ```
 input_file_path = "salea_traffic_cleaned_for_pattern_removal/1208_Orlando_FOA_sales_traffic_data.csv"
