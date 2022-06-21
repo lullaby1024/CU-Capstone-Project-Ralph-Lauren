@@ -1,4 +1,4 @@
 bokeh==1.4.0
-numpy==1.16.2
+numpy==1.22.0
 pandas==0.24.2
 wordcloud==1.6.0
